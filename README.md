@@ -56,10 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
-<br/><hr/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
+  <img  height="270" width="650" src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/><hr>
+      <img height="270" width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
+<hr/>
+    <img height="340" width="630" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
  
 </div>
 <br/><br/>
@@ -68,6 +68,8 @@
 
 <br/>
 
+
+<h3>Thanks😊 For Visiting my <img src="https://skillicons.dev/icons?i=github" href="https://github.com/Gopinath-Dehury"> Profile</h3><hr>
 <div align="center">
     <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555; margin-bottom: 0;">
     &copy; 2023 Gopinath Dehury
