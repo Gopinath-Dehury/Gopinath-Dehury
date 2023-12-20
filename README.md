@@ -56,10 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/><br>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
+ 
 </div>
 <br/><br/>
 
