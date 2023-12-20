@@ -57,8 +57,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
+<br/><hr/>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
  
 </div>
 <br/><br/>
@@ -68,7 +69,12 @@
 <br/>
 
 <div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src=""></a>
+    <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555; margin-bottom: 0;">
+    &copy; 2023 Gopinath Dehury
+  </p>
+  <p style="font-size: 16px; color: #777;">
+    &copy;All rights reserved.
+  </p>
 </div>
 
 <br/>
