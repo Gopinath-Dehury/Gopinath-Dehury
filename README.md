@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, React, Node.js, .NET, C#, AWS**
 
-💬 Ask me about **JAVA, HTML,CSS, Firebase... or anything [here] (https://www.linkedin.com/in/gopinathdehury)**
+💬 Ask me about **JAVA, HTML,CSS, Firebase... or anything [here](https://www.linkedin.com/in/gopinathdehury)**
 
 ⚡ Fun fact **PHOTOGRAPHY & VLOGGING**
 
