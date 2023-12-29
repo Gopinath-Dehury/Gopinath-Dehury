@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently persuing**my Masters MCA in CUTM**
+ 🔭 I’m currently persuing **my Masters MCA in CUTM**
  
  🌱 I’m currently learning **Docker, React, Node.js, .NET, C#, AWS**
 
