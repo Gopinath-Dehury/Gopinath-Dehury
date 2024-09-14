@@ -80,4 +80,4 @@
 </div>
 
 <br/>
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/L70i5wYCQx-Y8VuGH6eWpw/image)](https://api.badgr.io/public/assertions/L70i5wYCQx-Y8VuGH6eWpw?embedVersion=1)
+
