@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, React, Node.js, .NET, C#, AWS**
 
-💬 Ask me about **JAVA, HTML,CSS, Firebase... or anything [here](https://www.linkedin.com/in/gopinathdehury)**
+💬 Ask me about **JAVA, HTML, CSS, Firebase... or anything [here](https://www.linkedin.com/in/gopinathdehury)**
 
 ⚡ Fun fact **PHOTOGRAPHY & VLOGGING**
 
@@ -39,20 +39,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,spring,html,css,vscode,github,figma,androidstudio,git,aws,dotnet,idea,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,js,firebase,mongodb,c,java,mysql,docker,gcp,java,php,sqlite,powershell" /><br>
 </div>
-
-<br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
