@@ -1,30 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Gopinath-Dehury.Gopinath-Dehury" />
 
-## 🌟 Gopinath Dehury | Software Developer
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Dedicated+Software+Developer+with+2%2B+Years+of+Experience;+Specializing+in+Android+App+Development;+Building+Scalable+Solutions+with+Modern+Tech;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Passionate+Android+Developer;+Building+Solutions+with+Java+%26+Modern+Stacks;+Currently+Advancing+Skills+in+Cloud+%26+Backend;" />
 </div>
 
-<p align="center">
-  A passionate developer focused on building **robust, scalable, and user-centric applications**. I specialize in mobile development and leverage my full-stack knowledge to deliver cohesive products. Currently advancing my technical expertise while pursuing an **MCA at CUTM**.
-</p>
+<h3 align="center">A dedicated Software Developer based in INDIA</h3>
 
----
+<br/>
 
 <div align="center">
-  🔭 **Current Focus:** Deepening skills in **Cloud Architecture (AWS)** and **Modern Web Stacks (React/Node.js)** to enhance mobile backend integration.
-  <br/>
-  🌱 **Exploring:** Dockerizing solutions, exploring .NET core architecture, and CI/CD pipelines.
-  <br/>
-  💬 **Let's Connect:** I have strong expertise in **Java, Android SDK, Firebase, MySQL**. Feel free to ask me about mobile strategy or full-stack integration challenges.
-</div>
+ 
+ 🔭 **Education:** Currently pursuing **Masters MCA** at **CUTM**.
+ 
+ 🚀 **Key Technologies in Practice:** **Android (Java/XML)**, **Firebase**, **MySQL**.
+ 
+ 🌱 **Growth Focus:** Mastering **Docker, React, Node.js, AWS** to build scalable full-stack solutions.
 
----
+💬 **Connect:** For professional inquiries, find me on **[LinkedIn](https://www.linkedin.com/in/gopinathdehury)**.
 
-## 📞 Connect With Me
+⚡ **Fun Fact:** I balance coding with **PHOTOGRAPHY & VLOGGING**.
 
-<div align="center">
+ </div>
+ 
+<div align="center"> 
   <a href="mailto:gopinath90biku@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
   </a>
@@ -36,65 +34,67 @@
   </a>
 </div>
 
----
+<hr/>
 
-## 🛠️ Core Competencies & Technology Stack 🛠️
+## ⚒️ Core Technology Domains ⚒️
 
-### 📱 Mobile & Frontend Development
+> Grouping skills makes your expertise look more organized and deliberate.
+
+### 📱 Mobile & Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,react,bootstrap,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,html,css,react,bootstrap" />
 </div>
 
-### ⚙️ Backend, Databases & Cloud Services
+### ⚙️ Backend, Database & Cloud Services
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,java,c,firebase,mysql,mongodb,aws,gcp,php,sqlite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,csharp,mysql,mongodb,aws,gcp" />
 </div>
 
-### 🔧 Tools & DevOps
+### 🔧 Tools, Version Control & Other
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,python,php" />
 </div>
+<hr/>
+
+## 🏆 Showcase: Featured Projects & Contributions 🏆
+
+> **CRITICAL:** Customize these heavily! Show impact, not just tasks.
+
+* **[Project Name 1: High-Performance Android App]**
+    * **Role:** Lead Mobile Developer.
+    * **Impact:** Designed and shipped a core application featuring **[State a key feature, e.g., offline data sync]** using **Java/Android SDK**.
+    * **Tech Used:** Java, Firebase Realtime DB, Git.
+    * **Link:** `[Link to Repo or Play Store]`
+
+* **[Project Title 2: Scalable Backend Service]**
+    * **Role:** Backend Developer.
+    * **Impact:** Built a secure REST API to support the mobile platform, handling **[Metric, e.g., 1000+ requests per hour]**.
+    * **Tech Used:** Node.js, Express, MongoDB, Docker.
+    * **Link:** `[Link to Repo or Live Demo]`
 
 ---
-
-## 🚀 Featured Professional Projects 🚀
-
-> **(🌟 IMPORTANT: Replace this content with your actual project details!)**
-
-* **[Project Title 1: E-commerce Mobile App]** | **Android (Java/Kotlin) & Firebase**
-    * Developed a full-featured Android application for [mention the purpose, e.g., local vendors] utilizing a modern MVVM architecture.
-    * Implemented **[Specific Feature, e.g., real-time inventory and chat]** using **Firebase Firestore** and **Cloud Functions**.
-    * Optimized database queries, reducing load time by **[Metric, e.g., 30%]** and supporting **[Metric, e.g., 5,000 active users]**.
-    * *Link:* `[Link to GitHub Repo or Live Demo]`
-
-* **[Project Title 2: Scalable Task Management API]** | **Node.js/Express & AWS**
-    * Designed and deployed a **RESTful API** for a multi-tenant task management system, handling secure user authentication (JWT).
-    * Managed state and data integrity using **MongoDB/MySQL**.
-    * Containerized the service using **Docker** for consistent deployment and achieved **[Metric, e.g., 99.9% uptime]** on AWS EC2/Lambda.
-    * *Link:* `[Link to GitHub Repo or Live Demo]`
-
----
-
-## 📈 GitHub Activity & Stats
-
+<h2 align="center">⚡ GitHub Metrics & Activity ⚡</h2>
+<br>
 <div align=center>
-  <img height="270" width="650" src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&title_color=0077B5"/>
-  <hr/>
+  <img  height="270" width="650" src="https://github-readme-stats.vercel.app/api?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&title_color=0077B5"/><hr>
       <img height="270" width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopinath-Dehury&theme=highcontrast&hide_border=false" />
 <hr/>
     <img height="340" width="630" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopinath-Dehury&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
+ 
 </div>
+<br/><br/>
 
----
+<hr/>
 
 <br/>
 
-### Thank You for Exploring My Profile! 😊
 
-> I am committed to continuous improvement and delivering high-quality, impactful code. Let's connect to discuss technology or potential opportunities.
-
+<h3>Thank You For Visiting my <img src="https://skillicons.dev/icons?i=github" href="https://github.com/Gopinath-Dehury"> Profile</h3><hr>
 <div align="center">
-  <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555; margin-bottom: 0;">
-    &copy; 2023 Gopinath Dehury
+    <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555; margin-bottom: 0;">
+    &copy; 2024 Gopinath Dehury (Updated)
+  </p>
+  <p style="font-size: 16px; color: #777;">
+    &copy;All rights reserved.
   </p>
 </div>
